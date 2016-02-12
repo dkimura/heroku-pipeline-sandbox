@@ -1,0 +1,15 @@
+{
+  "name": "heroku-pipeline-sandbox",
+  "scripts": {
+  },
+  "env": {
+    "NODE_ENV": "development",
+    "NPM_CONFIG_PRODUCTION": "false"
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
